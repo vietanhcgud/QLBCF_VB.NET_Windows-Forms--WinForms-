@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|c:\\work\\n1\\hk1\\lttq\\phungvietanhth27.30_25_4_23\\qlbcf\\qlbcf\\giohang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\giohang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\sanpham.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\sanpham.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\sanpham.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\sanpham.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QLBCF||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\giohang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\giohang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\khachhang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\qlbcf\\nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{96F3C73D-8CBE-46D9-83E4-E20133CE699E}|QLBCF\\QLBCF.vbproj|solutionrelative:qlbcf\\nhanvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHang.vb",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\KhachHang.vb",
+              "RelativeDocumentMoniker": "QLBCF\\KhachHang.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\KhachHang.vb",
+              "RelativeToolTip": "QLBCF\\KhachHang.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-06T09:35:40.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioHang.vb",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\GioHang.vb",
+              "RelativeDocumentMoniker": "QLBCF\\GioHang.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\GioHang.vb",
+              "RelativeToolTip": "QLBCF\\GioHang.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-06T09:35:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.vb",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\SanPham.vb",
+              "RelativeDocumentMoniker": "QLBCF\\SanPham.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\SanPham.vb",
+              "RelativeToolTip": "QLBCF\\SanPham.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-06T09:35:41.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GioHang.vb [Design]",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\GioHang.vb",
+              "RelativeDocumentMoniker": "QLBCF\\GioHang.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\GioHang.vb [Design]",
+              "RelativeToolTip": "QLBCF\\GioHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-06T09:35:41.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.vb",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\Menu.vb",
+              "RelativeDocumentMoniker": "QLBCF\\Menu.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\Menu.vb",
+              "RelativeToolTip": "QLBCF\\Menu.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-06T09:35:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVien.vb",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\NhanVien.vb",
+              "RelativeDocumentMoniker": "QLBCF\\NhanVien.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\NhanVien.vb",
+              "RelativeToolTip": "QLBCF\\NhanVien.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-06T09:35:41.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLBCF",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\QLBCF.vbproj",
+              "RelativeDocumentMoniker": "QLBCF\\QLBCF.vbproj",
+              "ToolTip": "C:\\Work\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\QLBCF.vbproj*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\QLBCF.vbproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2023-05-22T15:06:55.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.vb [Design]",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\KhachHang.vb",
+              "RelativeDocumentMoniker": "QLBCF\\KhachHang.vb",
+              "ToolTip": "C:\\Work\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\KhachHang.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\KhachHang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-06T09:35:41.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.vb [Design]",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\Menu.vb",
+              "RelativeDocumentMoniker": "QLBCF\\Menu.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\Menu.vb [Design]",
+              "RelativeToolTip": "QLBCF\\Menu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-06T09:35:41.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.vb [Design]",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\SanPham.vb",
+              "RelativeDocumentMoniker": "QLBCF\\SanPham.vb",
+              "ToolTip": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\SanPham.vb [Design]",
+              "RelativeToolTip": "QLBCF\\SanPham.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-06T09:35:41.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanVien.vb [Design]",
+              "DocumentMoniker": "C:\\Work\\N1\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\NhanVien.vb",
+              "RelativeDocumentMoniker": "QLBCF\\NhanVien.vb",
+              "ToolTip": "C:\\Work\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\NhanVien.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\HK1\\LTTQ\\PhungVietAnhTH27.30_25_4_23\\QLBCF\\QLBCF\\NhanVien.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-06T09:35:41.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
